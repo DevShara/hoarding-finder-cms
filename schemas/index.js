@@ -1,1 +1,3 @@
-export const schemaTypes = []
+import hoarding from "./hoarding"
+
+export const schemaTypes = [hoarding]
